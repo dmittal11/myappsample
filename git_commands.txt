@@ -23,3 +23,8 @@ Description: Add files, with the desired file extension to the staging area
 Command: git add .
 Description: Add all files in directory to the staging area
 ----------------------------------------------------------------------------
+Command: git commit
+Command: i
+Command: :wq
+Description: type the message before, type :wq, then the files are commited to the local repository
+----------------------------------------------------------------------------------------------------
