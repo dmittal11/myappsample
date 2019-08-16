@@ -27,4 +27,10 @@ Command: git commit
 Command: i
 Command: :wq
 Description: type the message before, type :wq, then the files are commited to the local repository
-----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
+Command: git commit -m "Message here"
+Description: Add message before commiting files to the local repository, the files are then commited to the local repository
+-----------------------------------------------------------------------------------------------------------------------------
+File: .gitignore
+Description: Add any files path, the files wont be uploaded to github...
+-----------------------------------------------------------------------------------------------------------------------------
