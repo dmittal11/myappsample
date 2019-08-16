@@ -1,0 +1,25 @@
+--------------------------------------------------------
+Command: git init
+Description: Initialised empty git repository
+--------------------------------------------------------
+Command: git config --global user.name 'your name'
+Description: Add name as global variable in Git
+--------------------------------------------------------
+Command: git config --global user.email 'your email'
+Description: Add your email as global variable in Git
+--------------------------------------------------------
+Command: git add 'nameoffile'
+Description: Files are added to the staging area
+--------------------------------------------------------------------------------------
+Command: git status
+Description: Which files are in the staging area and the files that have been modified
+--------------------------------------------------------------------------------------
+Command: git rm --cached 'nameoffile'
+Description: Remove file from the staging area
+---------------------------------------------------------------------------
+Command: git add *.'nameoffileextension' --  i.e. git add *.html
+Description: Add files, with the desired file extension to the staging area
+----------------------------------------------------------------------------
+Command: git add .
+Description: Add all files in directory to the staging area
+----------------------------------------------------------------------------
